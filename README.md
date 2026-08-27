@@ -23,3 +23,12 @@ Exibição e Controle:
 - 
   Mostra a imagem processada com marcos desenhados.
   Permite sair do loop de visualização pressionando a tecla 'q'.
+
+
+
+---
+
+Este projeto é a base de extração de landmarks que evoluiu para o
+[detector de sinais de Libras](https://github.com/alissonamorim2004/IA-de-Reconhecimento-de-Libras),
+meu TCC — reconhecimento em tempo real com CNN, premiado em competição na
+faculdade.
